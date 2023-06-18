@@ -11,7 +11,7 @@ Creational Patterns:
     Builder
     Factory Method
     Prototype
-    Singleton
+    Singleton [Completed]
 
 Structural Patterns:
 
